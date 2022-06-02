@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **DevOPs,Java Development and Front end**
 
-- 🤝 I’m looking for help with **Source Project**
+- 🤝 I’m looking for help with **Open Source Project**
 
 - 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
 
