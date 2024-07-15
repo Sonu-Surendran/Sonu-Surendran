@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sonu Surendran</h1>
 <h3 align="center">A passionate Full Stack developer from India and like reading manga</h3>
 
-- 🔭 I’m currently working on **Portfolio Webiste**
+- 🔭 I’m currently working in **NTT DATA"
 
-- 🌱 I’m currently learning **React JS, Hibernate, Spring Boot**
+- 🌱 I’m currently learning **AWS, AZURE, Python, GCP**
 
-- 👯 I’m looking to collaborate on **DevOPs,Java Development and Front end**
+- 👯 I’m looking to collaborate on **Cloud related roles**
 
 - 🤝 I’m looking for help with **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
-
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Networking and Cloud**
 
 - 📫 How to reach me **sonuby93@gmail.com**
 
