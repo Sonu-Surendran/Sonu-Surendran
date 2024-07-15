@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **Networking and Cloud**
 
-- 📫 How to reach me **sonuby93@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B1vXMKNpd2QOfKPZX4hGVYGm2TkkOdxA/view?usp=sharing](https://drive.google.com/file/d/1B1vXMKNpd2QOfKPZX4hGVYGm2TkkOdxA/view?usp=sharing)
+- 📫 How to reach me **sonubusiness93@gmail.com**
 
 - ⚡ Fun fact **I wear my glasses even in my dreams**
 
