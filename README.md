@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, AZURE, Python, GCP**
 
-- 👯 I’m looking to collaborate on **Cloud related roles**
+- 👯 I’m looking to collaborate on **Cloud, Automation and AI/ML**
 
 - 🤝 I’m looking for help with **Open Source Project**
 
