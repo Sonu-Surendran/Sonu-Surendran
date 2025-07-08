@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu Surendran</h1>
-<h3 align="center">A passionate Full Stack developer from India and like reading manga</h3>
+<h3 align="center">A passionate developer from India and I like reading manga</h3>
 
 - 🔭 I’m currently working in **NTT DATA"
 
